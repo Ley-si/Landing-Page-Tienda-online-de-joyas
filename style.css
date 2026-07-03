@@ -364,6 +364,10 @@ h5 {
     text-indent: 0;
     padding: 20px;
   }
+  .foto-colecciones{
+    max-width: 250px;
+    height: auto;
+  }
   .newsletter {
     left: 60%;
   }
@@ -412,14 +416,14 @@ h5 {
     height: 100%; 
     text-align: center; 
   }
-.esencia{
-  padding-top: 50px;
-}
+/* .esencia{
+  padding-top: 30px;
+} */
   .info{
     font-size: 14px;
   }
-  .colecciones img {
-    width: 300px;
+  .foto-colecciones{
+    max-width: 150px;
     height: auto;
   }
   h3 {
