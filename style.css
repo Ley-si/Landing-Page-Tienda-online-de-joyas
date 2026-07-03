@@ -77,10 +77,6 @@ a {
   position: relative;
   margin-top: 70px;
 }
-/* .principal {
-  position: relative;
-  margin-top: 70px;
-} */
 .portada {
   width: 100%;
   max-height: 750px;
@@ -350,7 +346,7 @@ h5 {
   display: flex;
 }
   .portada {
-    height: 500px;
+    height: 450px;
     width: 100%;
   }
   .titulo {
@@ -399,6 +395,19 @@ h5 {
   .barra-nav a {
     font-size: 11px;
   }
+  .portada {
+    height: 350px;
+    width: 100%;
+  }
+    .titulo {
+    font-size: 12px;
+  top: 150px;
+    left: 5%;
+    right: 5%;
+  }
+  .fav{
+    font-size: 25px;
+  }
   .section {
     padding: 30px 35px;
   }
@@ -416,9 +425,6 @@ h5 {
     height: 100%; 
     text-align: center; 
   }
-/* .esencia{
-  padding-top: 30px;
-} */
   .info{
     font-size: 14px;
   }
